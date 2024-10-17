@@ -1,0 +1,9 @@
+langchain_groq
+qdrant-client
+langchain_community
+pypdf
+Sentence_transformers
+wikipedia
+arxiv
+PyPDF2
+langchain-huggingface
